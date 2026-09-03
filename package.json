@@ -2,7 +2,7 @@
   "name": "@ainujo/strapi-design-system",
   "version": "1.2.8",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "main": "index.js",
   "license": "MIT",
